@@ -8,3 +8,5 @@ This Purpose of this repo is to provide a real world example
 to work with Git courses.
 
 Cool stuff goes here
+
+Thanks for the courses
